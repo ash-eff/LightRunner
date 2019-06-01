@@ -170,7 +170,7 @@ GameObject:
   - component: {fileID: 3376663363345435137}
   - component: {fileID: 3376663363345435136}
   - component: {fileID: 3376663363345435138}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Jupiter
   m_TagString: Planet
   m_Icon: {fileID: 0}
@@ -242,5 +242,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e70648efd2246bb4ead96c4283ac3cfa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  planetName: Jupiter
   explosion: {fileID: 2234517012710415122, guid: 847446120126da644b77e920686ea540,
     type: 3}
+  planetInfoObj: {fileID: 0}
+  planetInfoText: {fileID: 0}
+  info: {fileID: 4900000, guid: d339ffd0016d9914c85b0c989c329bdc, type: 3}
+  waitTime: 0.05

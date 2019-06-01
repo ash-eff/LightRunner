@@ -1,0 +1,8 @@
+Planet Name: Earth
+Distance From Sun: 92,9 million mi. / 149.6 million km
+Diameter: 7,918 miles / 12,756 km
+Rotation: 24 hours
+Orbit: 365 Earth Days
+Temperature: -126.4F to 136F / -88C to 58C
+Moons: One
+Interesting Fact: The only planet in the solar system not named after a god.

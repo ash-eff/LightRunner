@@ -1,0 +1,9 @@
+Planet Name: Jupiter
+Distance From Sun: 483.8 million mi / 778.3 million km
+Diameter: 86,881 mi. / 133,709 km
+Rotation: 9 hours, 56 minutes
+Orbit: 4,333 Earth Days
+Temperature: -234F to 43,000F / -145C to 24,000C
+Moons: 79
+Rings: 4
+Interesting Fact: The red spot on jupiter is a huge storm that has raged on for at least 350 years. It is so large that three Earths could fit inside of it.

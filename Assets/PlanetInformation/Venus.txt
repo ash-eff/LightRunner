@@ -1,0 +1,8 @@
+Planet Name: Venus
+Distance From Sun: 67.2 million mi. / 108.2 million km
+Diameter: 7521 mi. / 12,104 km
+Rotation: 243 Earth Days
+Orbit: 225 Earth Days
+Temperature: Average 864F / 462C
+Moons: None
+Interesting Fact: Venus rotates in the opposite direction of most planets. It's called retrograde rotation.

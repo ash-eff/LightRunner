@@ -1,0 +1,9 @@
+Planet Name: Neptune
+Distance From Sun: 2.8 billion mi. / 4.5 billion km
+Diameter: 30,599 mi. / 49,528 km
+Rotation: 16 hours, 6 minutes
+Orbit: 165 Earth years
+Temperature: Average -346F / -210C
+Moons: 14
+Rings: 5
+Interesting Fact: Only one spacecraft, Voyager 2, has flown by Neptune.

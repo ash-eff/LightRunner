@@ -1,0 +1,9 @@
+Planet Name: Uranus
+Distance From Sun: 1.8 billion mi. / 2.9 billiom km
+Diameter: 31,518 mi. / 51,118 km
+Rotation: 17 hours, 14 minutes
+Orbit: 84 Earth years
+Temperature: -243F to -370F / -153C to -218C
+Moons: 27
+Rings: 13
+Interesting Fact: Has a funny name.

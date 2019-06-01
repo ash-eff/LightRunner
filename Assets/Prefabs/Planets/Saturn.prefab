@@ -23581,7 +23581,7 @@ GameObject:
   - component: {fileID: 4211557601122040484}
   - component: {fileID: 4211557601122040485}
   - component: {fileID: 4211557601122040491}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Saturn
   m_TagString: Planet
   m_Icon: {fileID: 0}
@@ -23659,8 +23659,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e70648efd2246bb4ead96c4283ac3cfa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  planetName: Saturn
   explosion: {fileID: 7075546566682246087, guid: fedc12b25480d854bb953cc9a735bc09,
     type: 3}
+  planetInfoObj: {fileID: 0}
+  planetInfoText: {fileID: 0}
+  info: {fileID: 4900000, guid: 816e7b17149fc644299410c46357ded2, type: 3}
+  waitTime: 0.05
 --- !u!1 &4516161013152845935
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,0 +1,8 @@
+Planet Name: Mars
+Distance From Sun: 141.6 million mi. / 227.9 million km
+Diameter: 4212 mi. / 6792 km
+Rotation: 24 hours, 37 minutes
+Orbit: 687 Earth Days
+Temperature: -243f to 68F / -153C to 20C
+Moons: Two
+Interesting Fact: Home of the tallest mountain in the solar system, Olympus Mons.

@@ -1,0 +1,9 @@
+Planet Name: Saturn
+Distance From Sun: 890.8 million mi. / 1.4 billion km
+Diameter: 72,367 mi. / 120,536 km
+Rotation: 10 Hours, 42 Minutes
+Orbit: 29.5 Earth Years
+Temperature: Average -288F / -178C
+Moons: 150+
+Rings: 30
+Interesting Fact: Gives off more energy than it recieves from the Sun.

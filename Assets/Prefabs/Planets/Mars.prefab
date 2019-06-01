@@ -170,7 +170,7 @@ GameObject:
   - component: {fileID: 7660367472397051191}
   - component: {fileID: 7660367472397051188}
   - component: {fileID: 7660367472397051190}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Mars
   m_TagString: Planet
   m_Icon: {fileID: 0}
@@ -206,9 +206,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 1.3, y: 0}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 2
 --- !u!50 &7660367472397051188
 Rigidbody2D:
   serializedVersion: 4
@@ -242,5 +242,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e70648efd2246bb4ead96c4283ac3cfa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  planetName: Mars
   explosion: {fileID: 7453657964733015192, guid: e5ae227cf506af841940b37e561b285f,
     type: 3}
+  planetInfoObj: {fileID: 0}
+  planetInfoText: {fileID: 0}
+  info: {fileID: 4900000, guid: 0b219c786f56ed84e87b8b86dfe07911, type: 3}
+  waitTime: 0.05
