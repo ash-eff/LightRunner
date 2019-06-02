@@ -1247,6 +1247,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LightBeam
       objectReference: {fileID: 0}
+    - target: {fileID: 8702568742605208003, guid: ec99c559335ae9f49bcda7594fa9e997,
+        type: 3}
+      propertyPath: orthographic size
+      value: 110
+      objectReference: {fileID: 0}
     - target: {fileID: 8702568741917847769, guid: ec99c559335ae9f49bcda7594fa9e997,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1321,11 +1326,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 8702568742605208003, guid: ec99c559335ae9f49bcda7594fa9e997,
-        type: 3}
-      propertyPath: orthographic size
-      value: 110
       objectReference: {fileID: 0}
     - target: {fileID: 5820624703063074286, guid: ec99c559335ae9f49bcda7594fa9e997,
         type: 3}
